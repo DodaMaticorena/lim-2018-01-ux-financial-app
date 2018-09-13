@@ -69,16 +69,14 @@ links, encontrarán:
 #### _Preguntas hechas al cliente_
 
 1. ¿Cuáles son los objetivos iniciales por los que decidieron crear esta app? Contexto.
-2. ¿Cómo ha cambiado la visión desde ese primer momento al de ahora? 
-3. ¿Cuáles son los objetivos?
-4. ¿Por qué razones decidieron desarrollar una aplicación  distinta, separada de su app de banca móvil? ¿La única razón fue para trabajar con un equipo totalmente nuevo que les diera libertad?
-5. ¿Cuáles consideran que son esas libertades que les ha brindado este nuevo equipo?
-6. ¿Han tenido alguna dificultad con el hecho de que sea una app separada?
-7. ¿Qué beneficios les ha traído esta app?
-8. ¿Por qué han desarrollado esta app solamente para iOS? 
-9. ¿Por qué no está implementada para Android?
-10. ¿Los colores utilizados en la app: verde, azul y rosado, son los mismos que la app de banca móvil y/o de la empresa?
-11. ¿Qué tanto quieren que el usuario diferencie la app Tus finanzas con la app de banca móvil?
-12. Si tu empresa fuera una persona, ¿cómo sería?
+2. ¿Qué resultados esperan con esta segunda iteración del producto?
+3. ¿Qué beneficios les ha traído esta app?
+4. ¿Han tenido alguna dificultad con el hecho de que sea una app separada?
+5. ¿Por qué han desarrollado esta app solamente para iOS?
+6. ¿Por qué no está implementada para Android?
+7. ¿Los colores utilizados en la app: verde, azul y rosado, son los mismos que la app de banca móvil y/o de la empresa?
+8. ¿Qué tanto quieren que el usuario diferencie la app Tus finanzas con la app de banca móvil?
+9. Si tu empresa fuera una persona, ¿cómo sería?
+
 
 
