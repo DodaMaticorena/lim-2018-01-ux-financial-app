@@ -62,6 +62,10 @@ links, encontrarán:
 - Data de uso del MVP de los primeros 6 meses
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
+## Objetivos iniciales del proyecto 
+
+Los objetivos iniciales son investigar el producto y encontrar los problemas que tiene el MVP de nuestro cliente, para poder idear una solución. También poder testear con el usuario para validar el problema y la solución.
+
 ## Cliente
 
 ### Entrevista
