@@ -66,7 +66,7 @@ links, encontrarán:
 
 ### Entrevista
 
-#### _Preguntas hechas al cliente_
+#### _1. Preguntas hechas al cliente_
 
 1. ¿Cuáles son los objetivos iniciales por los que decidieron crear esta app? Contexto.
 2. ¿Qué resultados esperan con esta segunda iteración del producto?
@@ -78,5 +78,22 @@ links, encontrarán:
 8. ¿Qué tanto quieren que el usuario diferencie la app Tus finanzas con la app de banca móvil?
 9. Si tu empresa fuera una persona, ¿cómo sería?
 
+#### _2. Conclusiones de entrevista con el cliente_
+
+El cliente tiene como objetivo ofrecer a los usuarios propios del banco las herramientas que necesitan para tener un control de sus gastos, así como también mejorar su capacidad de ahorro. 
+
+Se desarrolló una app separada de la aplicación de banca móvil que tienen porque no necesariamente todos los usuarios del banco son el público objetivo de la solución planteada para el manejo de gastos y ahorros. Está dirigida a gente más joven. Y con esto el proceso se simplificaría al tener una aplicación alternativa.
+
+Esta app de ahorros ayuda a fidelizar a los usuarios nuevos. Además, solo funciona si se tiene una cuenta en el banco de nuestro cliente, no con otros bancos.
+
+El cliente espera que con esta iteración de la app, el usuario pueda utilizar adecuadamente las funcionalidades, ya que actualmente no están usando bien la funcionalidad de ahorro; y no se sabe la razón por la que están teniendo tales dificultades. Además, busca posicionar la aplicación como algo innovador en el mercado peruano.
+
+Se cree que la publicidad no está cumpliendo bien su objetivo y quieren replantear la estrategia de marketing.
+
+La aplicación está desarrollada solo en iOS porque es nueva y es el MVP que se estableció. Pero hay disposición para implementar en Android, dadas las pruebas suficientes de que es necesario.
+
+Los colores de la app son distintos a la de la banca móvil del banco pero tienen una relación, _conversan_ entre ellas. Se ha intentado dar un estilo diferente porque es una aplicación diferente. El cliente quiere que el usuario pueda diferenciar cuando está en la banca móvil y en la app de ahorro, o sea encontrar un equilibrio entre las diferencias y el hecho de que vienen del mismo banco.
+
+El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere que su app se distinga por su disposición a innovar, que tenga un lenguaje amigable; pero por sobretodo que demuestre seguridad y confianza, dado que es una aplicación de banco.
 
 
