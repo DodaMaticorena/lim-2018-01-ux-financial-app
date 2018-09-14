@@ -153,5 +153,7 @@ El tamaño de las fotos de los usuarios que comentan es muy pequeño para el esp
 
 Para este proyecto decidimos utilizar Trello para organizarnos.
 
+[Link al proyecto en Trello](https://trello.com/b/sXtLmOH2/financial-app)
+
 ![Trello](img/trello.png)
 
