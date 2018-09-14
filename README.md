@@ -56,7 +56,7 @@ links, encontrarán:
 
 - Los user persona primario y secundario del proyecto.
 - Los user flows iniciales y actuales del proyecto del MVP.
-- El [diseño del app en Figma](https://www.figma.com/file/Gr5GEIRrjF9eIplIeEHUSJNt/proyecto-2-banca?node-id=0%3A477)
+- El [diseño de la app en Figma](https://www.figma.com/file/Gr5GEIRrjF9eIplIeEHUSJNt/proyecto-2-banca?node-id=0%3A477)
   , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
 - Funnel Analytics de los primeros 6 meses del MVP
 - Data de uso del MVP de los primeros 6 meses
@@ -129,4 +129,24 @@ Después de hacer un pequeño filtro y asegurarnos que los entrevistados tengan 
 23. ¿Te gustaría poder ahorrar y administrar tu dinero? ¿Por qué?
 24. ¿Qué conoces sobre aplicaciones para ahorrar? 
 25. Si utilizaras una aplicación móvil especialmente para ahorrar y ver tus gastos, ¿qué datos te gustaría encontrar y manejar?
+
+## Problemas encontrados en la investigación
+
+### Landing Page inicial
+
+Hay un gran porcentaje de usuarios que rebotan en el landing page y no descargan la app. Al analizar la data, vemos que la mayoría de los rebotes se da por usuarios de dispositivos Android. 
+
+Al ingresar a esta página, lo primero que se ve es una imagen de un celular iPhone, que en el caso de los que utilizan Android, es un pain point porque lo primero que puede pensar es que la app no está disponible para su celular o también puede causarle confusión en cuanto a ese tema.
+
+Siguiendo la línea anterior, no se especifica que la aplicación esté disponible solo para descargar en iOS. Entonces el usuario puede irse porque le parece tedioso buscar si la puede descargar o no; es posible que el beneficio no le parezca lo suficiente para tomarse ese tiempo.
+
+Otro problema con el landing page es el contraste y los colores. La imagen del celular se muestra con bordes blancos y el fondo también es blanco; por lo que, no se aprecia ni distingue correctamente el celular. La app se pierde entre esos colores. Asimismo, como se puede ver con el color de las letras, y con la última sección de "Descarga el app ahora", el color blanco no deja ver bien esa parte. 
+
+También los botones, al principio y al final, tienen distinto color. Incluso al pasar el cursor, difieren los colores; especialmente en el último botón, el color es totalmente distinto a lo anterior. No hay lineamientos que se respeten. 
+
+El tamaño de las fotos de los usuarios que comentan es muy pequeño para el espacio que hay.
+
+![Landing Page](img/landing-page.png)
+![Landing Page](img/landing-page2.png)
+
 
