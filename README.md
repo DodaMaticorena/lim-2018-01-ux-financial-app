@@ -68,9 +68,7 @@ Los objetivos iniciales son investigar el producto y encontrar los problemas que
 
 ## Cliente
 
-### Entrevista
-
-#### _1. Preguntas hechas al cliente_
+### _1. Preguntas hechas al cliente_
 
 1. ¿Cuáles son los objetivos iniciales por los que decidieron crear esta app? Contexto.
 2. ¿Qué resultados esperan con esta segunda iteración del producto?
@@ -82,7 +80,7 @@ Los objetivos iniciales son investigar el producto y encontrar los problemas que
 8. ¿Qué tanto quieren que el usuario diferencie la app Tus finanzas con la app de banca móvil?
 9. Si tu empresa fuera una persona, ¿cómo sería?
 
-#### _2. Conclusiones de entrevista con el cliente_
+### _2. Conclusiones de entrevista con el cliente_
 
 El cliente tiene como objetivo ofrecer a los usuarios propios del banco las herramientas que necesitan para tener un control de sus gastos, así como también mejorar su capacidad de ahorro. 
 
@@ -100,4 +98,35 @@ Los colores de la app son distintos a la de la banca móvil del banco pero tiene
 
 El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere que su app se distinga por su disposición a innovar, que tenga un lenguaje amigable; pero por sobretodo que demuestre seguridad y confianza, dado que es una aplicación de banco.
 
+## Usuarios
+
+### _1. Preguntas para el usuario_
+
+Después de hacer un pequeño filtro y asegurarnos que los entrevistados tengan tarjeta y cuenta de ahorros en un banco, pensamos en las siguientes preguntas:
+
+1. ¿Cuántos años tienes?
+2. ¿A qué te dedicas?
+3. ¿Qué haces en tus ratos libres?
+4. ¿Qué dispositivos utilizas con mayor frecuencia?
+5. ¿En qué sueles gastar tu dinero?
+6. ¿En la actualidad hay alguna compra específica que quisieras realizar? (ver pregunta 7 o 10 según sea el caso)
+7. (Si la respuesta es "sí") ¿Por qué no has realizado esa compra aún?
+8. (Sigue desde 7) ¿Planeas comprar eso a futuro?
+9. (Sigue desde la 8) ¿Cómo lo vas a lograr? ¿Tienes pensada alguna forma de alcanzar tu meta? (Si no sabe qué responder, dar opciones como préstamo, ahorro, etc.)
+10. (Si la respuesta es "no") ¿Y alguna vez has realizado una compra que hayas querido hacer por mucho tiempo?
+11. (Sigue desde la 10) Descríbeme cómo fue el proceso de compra, tu experiencia desde que decidiste adquirir ese producto.
+12. ¿Qué medios de pago utilizaste para realizar esa compra?
+13. ¿Qué dificultades tuviste para poder tener el dinero y comprar el producto?
+14. ¿De qué manera ahorras? ¿Cómo llevas la contabilidad de tus ahorros y gastos?
+15. ¿Es el único método de ahorro que conoces?
+16. ¿En qué banco tienes tu tarjeta de débito?
+17. ¿Por qué elegiste ese banco?
+18. ¿Qué beneficios te da?
+19. ¿Tienes la app móvil de tu banco instalada en tu celular? ¿Por qué?
+20. ¿Qué beneficios te brinda tener esa app en tu celular?
+21. ¿Qué es lo que más te gusta de esa aplicación? ¿Por qué?
+22. ¿Qué dificultades has tenido con esa aplicación?
+23. ¿Te gustaría poder ahorrar y administrar tu dinero? ¿Por qué?
+24. ¿Qué conoces sobre aplicaciones para ahorrar? 
+25. Si utilizaras una aplicación móvil especialmente para ahorrar y ver tus gastos, ¿qué datos te gustaría encontrar y manejar?
 
