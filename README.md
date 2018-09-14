@@ -149,4 +149,9 @@ El tamaño de las fotos de los usuarios que comentan es muy pequeño para el esp
 ![Landing Page](img/landing-page.png)
 ![Landing Page](img/landing-page2.png)
 
+## Herramienta de organización
+
+Para este proyecto decidimos utilizar Trello para organizarnos.
+
+![Trello](img/trello.png)
 
