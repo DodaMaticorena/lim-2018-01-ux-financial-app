@@ -98,6 +98,42 @@ Los colores de la app son distintos a la de la banca móvil del banco pero tiene
 
 El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere que su app se distinga por su disposición a innovar, que tenga un lenguaje amigable; pero por sobretodo que demuestre seguridad y confianza, dado que es una aplicación de banco.
 
+## Análisis de la data
+
+Según la data proporcionada y la información entregada por el cliente, se tiene el siguiente flujo de descarga e instalación de la aplicación:
+
+![flujo de descarga](img/flujo-descarga.png "Anuncio de Facebook ->  Landing page  ->  App Store  ->  Tus Finanzas")
+
+De los datos generales, obtenemos que del total de usuarios que ven el anuncio en Facebook **solo 2.4% ingresan al landing page**. Asimismo, de esta cantidad, el 12.4% que ingresa al landing page visita el App Store, y finalmente, del total que visita el App Store, solo el 12.8% instala la aplicación.
+
+Asimismo, de la data mensual que nos entregaron, podemos obtener que, en 06 meses, de Febrero a Julio, se registraron los siguientes cambios:
+
+![Crecimiento del funnel](img/funnel-crecimiento.png)
+
+Según los datos, las visitas al app store solo han aumentado el 14%, a diferencia de las impresiones en Facebook que lograron crecer un 89,2% o las visitas al landing page que aumentaron en un 74,8%.
+
+**Uso de funcionalidades de la aplicación**
+
+Por otro lado, referente al uso de la aplicación, tenemos lo siguiente como resultado:
+
+![Gastos vs. Ahorros](img/gastos-vs-ahorros.png)
+
+Que el uso o consulta de la sección de Gastos representa casi la totalidad del uso de la aplicación (95,2%), dejando en segundo lugar a la sección de Ahorros.
+
+**Dispositivos usados**
+
+Por otro lado, se observó que la mayoría de usuarios que ingresan al landing page son usuarios de **dispositivos Android (88,9%)** lo cual genera un porcentaje de rebote del 77,9%.
+
+![Dispositivos](img/uso-dispoitivos.png)
+
+**Conclusiones**
+
+1. En los 06 meses desde que se lanzó el MVP, se ha registrado un crecimiento considerable en el alcance de la aplicación, sin embargo, el flujo que se quiso implementar desde un inicio (anuncio-landing-app store-descarga) no ha seguido un crecimiento parejo, pues se ve una caída considerable en las visitas al App Store. 
+
+2. El mayor porcentaje de caída en el flujo de instalación de la aplicación se origina en el paso del anuncio en Facebook al landing page, lo que indica que el anuncio no está optimizado y no está cumpliendo su objetivo.
+
+3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página 
+
 ## Usuarios
 
 ### _1. Preguntas para el usuario_
