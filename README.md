@@ -107,28 +107,31 @@ Después de hacer un pequeño filtro y asegurarnos que los entrevistados tengan 
 1. ¿Cuántos años tienes?
 2. ¿A qué te dedicas?
 3. ¿Qué haces en tus ratos libres?
-4. ¿Qué dispositivos utilizas con mayor frecuencia?
+4. ¿Qué dispositivos digitales utilizas con mayor frecuencia?
 5. ¿En qué sueles gastar tu dinero?
-6. ¿En la actualidad hay alguna compra específica que quisieras realizar? (ver pregunta 7 o 10 según sea el caso)
-7. (Si la respuesta es "sí") ¿Por qué no has realizado esa compra aún?
-8. (Sigue desde 7) ¿Planeas comprar eso a futuro?
-9. (Sigue desde la 8) ¿Cómo lo vas a lograr? ¿Tienes pensada alguna forma de alcanzar tu meta? (Si no sabe qué responder, dar opciones como préstamo, ahorro, etc.)
-10. (Si la respuesta es "no") ¿Y alguna vez has realizado una compra que hayas querido hacer por mucho tiempo?
-11. (Sigue desde la 10) Descríbeme cómo fue el proceso de compra, tu experiencia desde que decidiste adquirir ese producto.
-12. ¿Qué medios de pago utilizaste para realizar esa compra?
+6. ¿Qué medios de pago utilizas en tu día a día?
+7. ¿En la actualidad hay alguna meta, objetivo, compra que quisieras realizar? (ver pregunta 8 u 11 según sea el caso)
+8. (Si la respuesta es "sí") Cuéntame sobre eso. ¿Por qué no has realizado esa compra aún?
+9. (Sigue desde 8) ¿Planeas comprar eso a futuro?
+10. (Sigue desde la 9) ¿Cómo lo vas a lograr? ¿Tienes pensada alguna forma de alcanzar tu meta? (Si no sabe qué responder, dar opciones como préstamo, ahorro, etc.)
+11. (Si la respuesta es "no") ¿Y alguna vez has realizado una compra que hayas querido hacer por mucho tiempo?
+12. (Sigue desde la 11) Descríbeme cómo fue el proceso de compra, tu experiencia desde que decidiste adquirir ese producto.
 13. ¿Qué dificultades tuviste para poder tener el dinero y comprar el producto?
-14. ¿De qué manera ahorras? ¿Cómo llevas la contabilidad de tus ahorros y gastos?
-15. ¿Es el único método de ahorro que conoces?
-16. ¿En qué banco tienes tu tarjeta de débito?
-17. ¿Por qué elegiste ese banco?
-18. ¿Qué beneficios te da?
-19. ¿Tienes la app móvil de tu banco instalada en tu celular? ¿Por qué?
-20. ¿Qué beneficios te brinda tener esa app en tu celular?
-21. ¿Qué es lo que más te gusta de esa aplicación? ¿Por qué?
-22. ¿Qué dificultades has tenido con esa aplicación?
-23. ¿Te gustaría poder ahorrar y administrar tu dinero? ¿Por qué?
-24. ¿Qué conoces sobre aplicaciones para ahorrar? 
-25. Si utilizaras una aplicación móvil especialmente para ahorrar y ver tus gastos, ¿qué datos te gustaría encontrar y manejar?
+14. ¿Qué formas de ahorro conoces?
+15. ¿Ahorras tu dinero o has ahorrado en el pasado?
+16. ¿De qué manera ahorras? ¿Por qué?
+17. ¿Cómo llevas la contabilidad de tus gastos o ahorros? ¿Por qué?
+18. ¿En qué banco tienes tu tarjeta de débito?
+19. ¿Por qué elegiste ese banco?
+20. ¿Qué beneficios te da?
+21. ¿Tienes la app móvil de tu banco instalada en tu celular? ¿Por qué?
+22. ¿Qué beneficios te brinda tener esa app en tu celular?
+23. ¿Qué es lo que más te gusta de esa aplicación? ¿Por qué?
+24. ¿Qué dificultades has tenido con esa aplicación?
+25. ¿Te gustaría poder ahorrar y administrar tu dinero usando tu celular? ¿Por qué?
+26. ¿Qué conoces sobre aplicaciones móviles para ahorrar? 
+27. Si utilizaras una aplicación móvil especialmente para ahorrar y ver tus gastos, ¿qué datos te gustaría encontrar y manejar?
+28. ¿Cómo la utilizarías, qué tareas harías?
 
 ## Problemas encontrados en la investigación
 
