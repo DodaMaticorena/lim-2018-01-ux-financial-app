@@ -124,7 +124,7 @@ Que el uso o consulta de la sección de Gastos representa casi la totalidad del 
 
 Por otro lado, se observó que la mayoría de usuarios que ingresan al landing page son usuarios de **dispositivos Android (88,9%)** lo cual genera un porcentaje de rebote del 77,9%.
 
-![Dispositivos](img/uso-dispoitivos.png)
+![Dispositivos](img/uso-dispositivos.png)
 
 **Conclusiones**
 
