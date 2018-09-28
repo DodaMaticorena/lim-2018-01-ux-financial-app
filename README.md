@@ -131,7 +131,39 @@ Por otro lado, se observó que la mayoría de usuarios que ingresan al landing p
 
 2. El mayor porcentaje de caída en el flujo de instalación de la aplicación se origina en el paso del anuncio en Facebook al landing page, lo que indica que el anuncio no está optimizado y no está cumpliendo su objetivo.
 
-3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página 
+3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página.
+
+## Problemas encontrados en la investigación
+
+### Landing Page inicial
+
+Hay un gran porcentaje de usuarios que rebotan en el landing page y no descargan la app. Al analizar la data, vemos que la mayoría de los rebotes se da por usuarios de dispositivos Android. 
+
+Al ingresar a esta página, lo primero que se ve es una imagen de un celular iPhone, que en el caso de los que utilizan Android, es un pain point porque lo primero que pueden pensar es que la app no está disponible para su celular o también puede causarle confusión en cuanto a ese tema.
+
+Siguiendo la línea anterior, no se especifica que la aplicación esté disponible solo para descargar en iOS. Entonces el usuario puede irse porque le parece tedioso buscar si la puede descargar o no; es posible que el beneficio no le parezca lo suficiente para tomarse ese tiempo.
+
+De igual manera, al hacer clic en "descárgala ahora" al principio de la página, te dirige al final para escribir los datos del usuario y recibir el link de descarga. Este paso parece innecesario y puede provocar que el usuario abandone la página porque no quiere dar sus datos, sino que quisiera poder descargar inmediatamente la app.
+
+En el landing page no se especifica que la app solo puede ser utilizada por usuarios del banco, por lo que aumenta el porcentaje de rebote cuando los usuarios se dan cuenta de eso.
+
+Otro problema con el landing page es el contraste y los colores. La imagen del celular se muestra con bordes blancos y el fondo también es blanco; por lo que, no se aprecia ni distingue correctamente el celular. La app se pierde entre esos colores. Asimismo, como se puede ver con el color de las letras, y con la última sección de "Descarga el app ahora", el color blanco no deja ver bien esa parte. 
+
+También los botones, al principio y al final, tienen distinto color. Incluso al pasar el cursor, difieren los colores; especialmente en el último botón, el color es totalmente distinto a lo anterior. No hay lineamientos que se respeten. 
+
+El tamaño de las fotos de los usuarios que comentan es muy pequeño para el espacio que hay.
+
+![Landing Page](img/landing-page.png)
+![Landing Page](img/landing-page2.png)
+
+
+## Testing inicial con Maze
+
+Decidimos testear el prototipo inicial que nos brindó el cliente para obtener los primeros problemas y poder solucionarlos. Para realizar esta tarea utilizamos la herramienta Maze.design y la testeamos con 8 usuarios. 
+
+Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la tarea indirectamente y 6 se rindieron o rebotaron. Entonces claramente había un problema con la aplicación. La mayoría se quedó en la parte de crearse una cuenta, y pensamos que una de las razones era por tantos pasos que tenían que hacer.
+
+![maze](img/mazedesign.jpg)
 
 ## Entrevista a usuarios
 
@@ -146,7 +178,6 @@ Esto se debe a que prefieren el disfrute de corto plazo sobre la posesión físi
 Sin embargo, según el estudio, para el 2030 esta generación constituirá más del 60% de la fuerza laboral, entre millennials y post-millennials, por lo que es importante inculcar en ellos el hábito del ahorro a largo plazo.
 
 Según lo antes visto, podemos concluir que el user persona al que se dirige el banco mantiene la edad correcta (user persona primario y secundario) pero cuenta con características diferentes, los cuales validaremos con las entrevistas propuestas.
-
 
 
 ### _1. Preguntas para el usuario_
@@ -197,31 +228,17 @@ Los datos que quieren ver los usuarios en la aplicación son el monto de su sald
 
 Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque normalmente no cuentan con ingresos monetarios, pero sí quieren ahorrar para obtener alguna meta. Estos usuarios están dispuestos a hacerlo apenas tengan la posibilidad.
 
+## Árbol de contenidos
 
-## **Definición**
+![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
 
-## Problemas encontrados en la investigación
+## Zeplin
 
-### Landing Page inicial
+[Link a proyecto en Zeplin](https://zpl.io/scene/bo9lpLg)
 
-Hay un gran porcentaje de usuarios que rebotan en el landing page y no descargan la app. Al analizar la data, vemos que la mayoría de los rebotes se da por usuarios de dispositivos Android. 
+## Video Loom
 
-Al ingresar a esta página, lo primero que se ve es una imagen de un celular iPhone, que en el caso de los que utilizan Android, es un pain point porque lo primero que pueden pensar es que la app no está disponible para su celular o también puede causarle confusión en cuanto a ese tema.
-
-Siguiendo la línea anterior, no se especifica que la aplicación esté disponible solo para descargar en iOS. Entonces el usuario puede irse porque le parece tedioso buscar si la puede descargar o no; es posible que el beneficio no le parezca lo suficiente para tomarse ese tiempo.
-
-De igual manera, al hacer clic en "descárgala ahora" al principio de la página, te dirige al final para escribir los datos del usuario y recibir el link de descarga. Este paso parece innecesario y puede provocar que el usuario abandone la página porque no quiere dar sus datos, sino que quisiera poder descargar inmediatamente la app.
-
-En el landing page no se especifica que la app solo puede ser utilizada por usuarios del banco, por lo que aumenta el porcentaje de rebote cuando los usuarios se dan cuenta de eso.
-
-Otro problema con el landing page es el contraste y los colores. La imagen del celular se muestra con bordes blancos y el fondo también es blanco; por lo que, no se aprecia ni distingue correctamente el celular. La app se pierde entre esos colores. Asimismo, como se puede ver con el color de las letras, y con la última sección de "Descarga el app ahora", el color blanco no deja ver bien esa parte. 
-
-También los botones, al principio y al final, tienen distinto color. Incluso al pasar el cursor, difieren los colores; especialmente en el último botón, el color es totalmente distinto a lo anterior. No hay lineamientos que se respeten. 
-
-El tamaño de las fotos de los usuarios que comentan es muy pequeño para el espacio que hay.
-
-![Landing Page](img/landing-page.png)
-![Landing Page](img/landing-page2.png)
+[Link del video](https://www.useloom.com/share/066af5cbaf0e4da5becd78ecfe7bb17c)
 
 ## Herramienta de organización
 
