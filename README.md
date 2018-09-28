@@ -169,6 +169,21 @@ Después de hacer un pequeño filtro y asegurarnos que los entrevistados tengan 
 27. Si utilizaras una aplicación móvil especialmente para ahorrar y ver tus gastos, ¿qué datos te gustaría encontrar y manejar?
 28. ¿Cómo la utilizarías, qué tareas harías?
 
+### _2. Conclusiones de entrevistas con los usuarios_
+
+Los entrevistados son personas entre 18 y 33 años. Tres de ellos trabajan y dos estudian.
+
+Todos los entrevistados usan el celular como su dispositivo principal, y la laptop como dispositivo secundario. 
+Los medios de pago que utilizan son efectivo y tarjeta, con un poco más de frecuencia el efectivo.
+
+Todos desean hacer una compra o cumplir una meta que varía en precio y que requiere de un ahorro previo, pero solo una entrevistada tiene control de gastos y cultura de ahorro, y destina un monto de sus ingresos exclusivamente para lograr su meta. Los demás guardan su dinero de lo que les sobra, entonces no es algo constante, no hay cultura de ahorro y tampoco un control de gastos. Algunos saben que en las aplicaciones de sus bancos pueden visualizar una cantidad limitada de gastos pero en realidad no utilizan esa herramienta.
+
+Además de saber y entender la ventaja que habría en utilizar un aplicativo para ahorrar, lo que más buscan los usuarios es la seguridad, así como también ahorrar tiempo. Desean una aplicación segura y que pueda otorgarles las herramientas necesarias para realizar todos sus movimientos desde su celular.
+
+Los datos que quieren ver los usuarios en la aplicación son el monto de su saldo disponible, los gastos que han tenido, todos sus movimientos, quieren poder destinar un monto de ahorro, a plazo fijo o no. Asimismo, les gustaría una función que les avisara si se están excediendo en sus gastos y que compare al mes pasado para poder ver su evolución.
+
+Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque normalmente no cuentan con ingresos monetarios, pero sí quieren ahorrar para obtener alguna meta. Estos usuarios están dispuestos a hacerlo apenas tengan la posibilidad.
+
 ## Problemas encontrados en la investigación
 
 ### Landing Page inicial
