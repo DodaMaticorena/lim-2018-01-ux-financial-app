@@ -66,6 +66,9 @@ links, encontrarán:
 Los objetivos iniciales son investigar el producto y encontrar los problemas que tiene el MVP de nuestro cliente, para poder idear una solución. También poder testear con el usuario para validar el problema y la solución.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 ## Entrevista al cliente
 
 ### _1. Preguntas hechas al cliente_
@@ -162,10 +165,14 @@ Los datos que quieren ver los usuarios en la aplicación son el monto de su sald
 Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque normalmente no cuentan con ingresos monetarios, pero sí quieren ahorrar para obtener alguna meta. Estos usuarios están dispuestos a hacerlo apenas tengan la posibilidad.
 
 
+<<<<<<< HEAD
 ## Análisis de la data
 =======
 ### Análisis de la data proporcionada
 >>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
+=======
+### Análisis de la data proporcionada
+>>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 
 Según la data proporcionada y la información entregada por el cliente, se tiene el siguiente flujo de descarga e instalación de la aplicación:
 
@@ -234,10 +241,14 @@ Los colores de la app son distintos a la de la banca móvil del banco pero tiene
 El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere que su app se distinga por su disposición a innovar, que tenga un lenguaje amigable; pero por sobretodo que demuestre seguridad y confianza, dado que es una aplicación de banco.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Árbol de contenidos
 =======
 ### Entrevista a usuarios
 >>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
+=======
+## Árbol de contenidos
+>>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 
 ![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
 
@@ -253,6 +264,7 @@ En la parte de Ahorros, la nueva propuesta es un botón que dice 'Crear una meta
 
 Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, categoría de tu meta, ¿Cómo quieres ahorrar?: establecer meta total y establecer monto parcial a ahorrar, frecuencia de tu ahorro, fecha límite de tu meta. En la siguiente imagen se muestra esa vista:
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ![Crear cuenta](img/crear-ahorro.png)
 =======
@@ -297,6 +309,14 @@ Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, c
 #### _2. Conclusiones de entrevistas con los usuarios_
 >>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
 
+=======
+![Crear cuenta](img/crear-ahorro.png)
+
+## Prototipo de Alta fidelidad (con iteración)
+
+[Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
+[Entra al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down)
+>>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 ![Prototipo Android](img/prototipo-android.jpg)
 
 ## Testing del prototipo
@@ -310,8 +330,12 @@ Hicimos testing con 5 usuarios entre 19 y 24 años. Y sacamos dos conclusiones p
 Después del testing del prototipo, lo iteramos para resolver los problemas que habían. Es así que cambiamos el campo confuso de "¿Cómo quieres ahorrar?" a "¿Cuánto quieres ahorrar?" para que sea más directo. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
 =======
+=======
+Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
+>>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 
 ## **Definición**
 
@@ -347,6 +371,7 @@ Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la
 
 ![maze](img/mazedesign.jpg)
 
+
 ## **Ideación**
 
 ### User persona primario - validado
@@ -361,10 +386,13 @@ Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la
 
 ![user secundario](img/customer-journey.png)
 
+<<<<<<< HEAD
 ### Árbol de contenidos
 >>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
 
 
+=======
+>>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 ## **Prototipado**
 
 ### Prototipo en alta fidelidad
