@@ -61,10 +61,11 @@ links, encontrarán:
 - Data de uso del MVP de los primeros 6 meses
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
-## Objetivos iniciales del proyecto 
+### Objetivos iniciales del proyecto 
 
 Los objetivos iniciales son investigar el producto y encontrar los problemas que tiene el MVP de nuestro cliente, para poder idear una solución. También poder testear con el usuario para validar el problema y la solución.
 
+<<<<<<< HEAD
 ## Entrevista al cliente
 
 ### _1. Preguntas hechas al cliente_
@@ -162,6 +163,9 @@ Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque norma
 
 
 ## Análisis de la data
+=======
+### Análisis de la data proporcionada
+>>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
 
 Según la data proporcionada y la información entregada por el cliente, se tiene el siguiente flujo de descarga e instalación de la aplicación:
 
@@ -197,9 +201,123 @@ Por otro lado, se observó que la mayoría de usuarios que ingresan al landing p
 
 3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página.
 
-## Problemas encontrados en la investigación
+### Entrevista al cliente
 
-### Landing Page inicial
+#### _1. Preguntas hechas al cliente_
+
+1. ¿Cuáles son los objetivos iniciales por los que decidieron crear esta app? Contexto.
+2. ¿Qué resultados esperan con esta segunda iteración del producto?
+3. ¿Qué beneficios les ha traído esta app?
+4. ¿Han tenido alguna dificultad con el hecho de que sea una app separada?
+5. ¿Por qué han desarrollado esta app solamente para iOS?
+6. ¿Por qué no está implementada para Android?
+7. ¿Los colores utilizados en la app: verde, azul y rosado, son los mismos que la app de banca móvil y/o de la empresa?
+8. ¿Qué tanto quieren que el usuario diferencie la app Tus finanzas con la app de banca móvil?
+9. Si tu empresa fuera una persona, ¿cómo sería?
+
+#### _2. Conclusiones de entrevista con el cliente_
+
+El cliente tiene como objetivo ofrecer a los usuarios propios del banco las herramientas que necesitan para tener un control de sus gastos, así como también mejorar su capacidad de ahorro. 
+
+Se desarrolló una app separada de la aplicación de banca móvil que tienen porque no necesariamente todos los usuarios del banco son el público objetivo de la solución planteada para el manejo de gastos y ahorros. Está dirigida a gente más joven. Y con esto el proceso se simplificaría al tener una aplicación alternativa.
+
+Esta app de ahorros ayuda a fidelizar a los usuarios nuevos. Además, solo funciona si se tiene una cuenta en el banco de nuestro cliente, no con otros bancos.
+
+El cliente espera que con esta iteración de la app, el usuario pueda utilizar adecuadamente las funcionalidades, ya que actualmente no están usando bien la funcionalidad de ahorro; y no se sabe la razón por la que están teniendo tales dificultades. Además, busca posicionar la aplicación como algo innovador en el mercado peruano.
+
+Se cree que la publicidad no está cumpliendo bien su objetivo y quieren replantear la estrategia de marketing.
+
+La aplicación está desarrollada solo en iOS porque es nueva y es el MVP que se estableció. Pero hay disposición para implementar en Android, dadas las pruebas suficientes de que es necesario.
+
+Los colores de la app son distintos a la de la banca móvil del banco pero tienen una relación, _conversan_ entre ellas. Se ha intentado dar un estilo diferente porque es una aplicación diferente. El cliente quiere que el usuario pueda diferenciar cuando está en la banca móvil y en la app de ahorro, o sea encontrar un equilibrio entre las diferencias y el hecho de que vienen del mismo banco.
+
+El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere que su app se distinga por su disposición a innovar, que tenga un lenguaje amigable; pero por sobretodo que demuestre seguridad y confianza, dado que es una aplicación de banco.
+
+<<<<<<< HEAD
+## Árbol de contenidos
+=======
+### Entrevista a usuarios
+>>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
+
+![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
+
+## Propuesta inicial
+
+Un punto importante es que decidimos implementar la aplicación en Android, todo eso fundamentado en la investigación. Hay una gran cantidad de usuarios Android que se pierden porque no hay una versión para su sistema operativo.
+
+La propuesta inicial de rediseño empieza con un onboarding, para así presentarle al usuario nuevo los beneficios que obtendría al usar la aplicación. Minimizamos el proceso de registro, con menos pasos pero sin dejar de lado la seguridad. Sacamos la selección de una foto en el registro, y también eliminamos la huella. Esta última la pusimos en la sección de Ajustes. 
+
+Agregamos una barra inferior con los accesos a las diferentes secciones de la aplicación. Cambiamos un poco el diseño a uno más minimalista.
+
+En la parte de Ahorros, la nueva propuesta es un botón que dice 'Crear una meta', a diferencia del diseño anterior que dice 'Crear una cuenta', y resulta confuso para el usuario. 
+
+Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, categoría de tu meta, ¿Cómo quieres ahorrar?: establecer meta total y establecer monto parcial a ahorrar, frecuencia de tu ahorro, fecha límite de tu meta. En la siguiente imagen se muestra esa vista:
+
+<<<<<<< HEAD
+![Crear cuenta](img/crear-ahorro.png)
+=======
+#### _1. Preguntas para el usuario_
+>>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
+
+## Prototipo de Alta fidelidad (con iteración)
+
+<<<<<<< HEAD
+[Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
+[Entra al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down)
+=======
+1. ¿Cuántos años tienes?
+2. ¿A qué te dedicas?
+3. ¿Qué haces en tus ratos libres?
+4. ¿Qué dispositivos digitales utilizas con mayor frecuencia?
+5. ¿En qué sueles gastar tu dinero?
+6. ¿Qué medios de pago utilizas en tu día a día?
+7. ¿En la actualidad hay alguna meta, objetivo, compra que quisieras realizar? (ver pregunta 8 u 11 según sea el caso)
+8. (Si la respuesta es "sí") Cuéntame sobre eso. ¿Por qué no has realizado esa compra aún?
+9. (Sigue desde 8) ¿Planeas comprar eso a futuro?
+10. (Sigue desde la 9) ¿Cómo lo vas a lograr? ¿Tienes pensada alguna forma de alcanzar tu meta? (Si no sabe qué responder, dar opciones como préstamo, ahorro, etc.)
+11. (Si la respuesta es "no") ¿Y alguna vez has realizado una compra que hayas querido hacer por mucho tiempo?
+12. (Sigue desde la 11) Descríbeme cómo fue el proceso de compra, tu experiencia desde que decidiste adquirir ese producto.
+13. ¿Qué dificultades tuviste para poder tener el dinero y comprar el producto?
+14. ¿Qué formas de ahorro conoces?
+15. ¿Ahorras tu dinero o has ahorrado en el pasado?
+16. ¿De qué manera ahorras? ¿Por qué?
+17. ¿Cómo llevas la contabilidad de tus gastos o ahorros? ¿Por qué?
+18. ¿En qué banco tienes tu tarjeta de débito?
+19. ¿Por qué elegiste ese banco?
+20. ¿Qué beneficios te da?
+21. ¿Tienes la app móvil de tu banco instalada en tu celular? ¿Por qué?
+22. ¿Qué beneficios te brinda tener esa app en tu celular?
+23. ¿Qué es lo que más te gusta de esa aplicación? ¿Por qué?
+24. ¿Qué dificultades has tenido con esa aplicación?
+25. ¿Te gustaría poder ahorrar y administrar tu dinero usando tu celular? ¿Por qué?
+26. ¿Qué conoces sobre aplicaciones móviles para ahorrar? 
+27. Si utilizaras una aplicación móvil especialmente para ahorrar y ver tus gastos, ¿qué datos te gustaría encontrar y manejar?
+28. ¿Cómo la utilizarías, qué tareas harías?
+
+#### _2. Conclusiones de entrevistas con los usuarios_
+>>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
+
+![Prototipo Android](img/prototipo-android.jpg)
+
+## Testing del prototipo
+
+Hicimos testing con 5 usuarios entre 19 y 24 años. Y sacamos dos conclusiones principales: 
+- Tuvieron mucha dificultad al crear una meta de ahorro en el campo de "¿Cómo quieres ahorrar? Establecer meta total o Establecer monto parcial a ahorrar." Los usuarios no entendían a qué se referían las opciones.
+- Algunos usuarios sentían que la app les decía qué hacer, y no la sentían _suya_ o _propia_ por el lenguaje en segunda persona que se usa.
+
+## Iteración del prototipo
+
+Después del testing del prototipo, lo iteramos para resolver los problemas que habían. Es así que cambiamos el campo confuso de "¿Cómo quieres ahorrar?" a "¿Cuánto quieres ahorrar?" para que sea más directo. 
+
+<<<<<<< HEAD
+Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
+=======
+
+## **Definición**
+
+### Problemas encontrados en la investigación
+
+#### Landing Page inicial
 
 Hay un gran porcentaje de usuarios que rebotan en el landing page y no descargan la app. Al analizar la data, vemos que la mayoría de los rebotes se da por usuarios de dispositivos Android. 
 
@@ -221,7 +339,7 @@ El tamaño de las fotos de los usuarios que comentan es muy pequeño para el esp
 ![Landing Page](img/landing-page2.png)
 
 
-## Testing inicial con Maze
+#### Testing inicial con Maze
 
 Decidimos testear el prototipo inicial que nos brindó el cliente para obtener los primeros problemas y poder solucionarlos. Para realizar esta tarea utilizamos la herramienta Maze.design y la testeamos con 8 usuarios. 
 
@@ -229,53 +347,39 @@ Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la
 
 ![maze](img/mazedesign.jpg)
 
-## Árbol de contenidos
+## **Ideación**
 
-![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
+### User persona primario - validado
 
-## Propuesta inicial
+![user primario](img/Persona-primary.png)
 
-Un punto importante es que decidimos implementar la aplicación en Android, todo eso fundamentado en la investigación. Hay una gran cantidad de usuarios Android que se pierden porque no hay una versión para su sistema operativo.
+### User persona secundario - validado
 
-La propuesta inicial de rediseño empieza con un onboarding, para así presentarle al usuario nuevo los beneficios que obtendría al usar la aplicación. Minimizamos el proceso de registro, con menos pasos pero sin dejar de lado la seguridad. Sacamos la selección de una foto en el registro, y también eliminamos la huella. Esta última la pusimos en la sección de Ajustes. 
+![user secundario](img/Persona-secundary.png)
 
-Agregamos una barra inferior con los accesos a las diferentes secciones de la aplicación. Cambiamos un poco el diseño a uno más minimalista.
+### Customer Journey Map
 
-En la parte de Ahorros, la nueva propuesta es un botón que dice 'Crear una meta', a diferencia del diseño anterior que dice 'Crear una cuenta', y resulta confuso para el usuario. 
+![user secundario](img/customer-journey.png)
 
-Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, categoría de tu meta, ¿Cómo quieres ahorrar?: establecer meta total y establecer monto parcial a ahorrar, frecuencia de tu ahorro, fecha límite de tu meta. En la siguiente imagen se muestra esa vista:
-
-![Crear cuenta](img/crear-ahorro.png)
-
-## Prototipo de Alta fidelidad (con iteración)
-
-[Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
-[Entra al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down)
-
-![Prototipo Android](img/prototipo-android.jpg)
-
-## Testing del prototipo
-
-Hicimos testing con 5 usuarios entre 19 y 24 años. Y sacamos dos conclusiones principales: 
-- Tuvieron mucha dificultad al crear una meta de ahorro en el campo de "¿Cómo quieres ahorrar? Establecer meta total o Establecer monto parcial a ahorrar." Los usuarios no entendían a qué se referían las opciones.
-- Algunos usuarios sentían que la app les decía qué hacer, y no la sentían _suya_ o _propia_ por el lenguaje en segunda persona que se usa.
-
-## Iteración del prototipo
-
-Después del testing del prototipo, lo iteramos para resolver los problemas que habían. Es así que cambiamos el campo confuso de "¿Cómo quieres ahorrar?" a "¿Cuánto quieres ahorrar?" para que sea más directo. 
-
-Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
+### Árbol de contenidos
+>>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
 
 
-## Zeplin
+## **Prototipado**
+
+### Prototipo en alta fidelidad
+
+[Link a proyecto en Figma](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App-Android?node-id=2%3A0&scaling=scale-down)
+
+### Zeplin
 
 [Link a proyecto en Zeplin](https://zpl.io/scene/bo9lpLg)
 
-## Video Loom
+### Video Loom
 
 [Link del video](https://www.useloom.com/share/066af5cbaf0e4da5becd78ecfe7bb17c)
 
-## Herramienta de organización
+### Herramienta de organización
 
 Para este proyecto decidimos utilizar Trello para organizarnos.
 
