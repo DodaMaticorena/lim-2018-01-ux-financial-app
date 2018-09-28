@@ -61,7 +61,7 @@ links, encontrarán:
 - Data de uso del MVP de los primeros 6 meses
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
-## Objetivos iniciales del proyecto 
+### Objetivos iniciales del proyecto 
 
 Los objetivos iniciales son investigar el producto y encontrar los problemas que tiene el MVP de nuestro cliente, para poder idear una solución. También poder testear con el usuario para validar el problema y la solución.
 
@@ -161,7 +161,7 @@ Los datos que quieren ver los usuarios en la aplicación son el monto de su sald
 Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque normalmente no cuentan con ingresos monetarios, pero sí quieren ahorrar para obtener alguna meta. Estos usuarios están dispuestos a hacerlo apenas tengan la posibilidad.
 
 
-## Análisis de la data
+### Análisis de la data proporcionada
 
 Según la data proporcionada y la información entregada por el cliente, se tiene el siguiente flujo de descarga e instalación de la aplicación:
 
@@ -197,37 +197,37 @@ Por otro lado, se observó que la mayoría de usuarios que ingresan al landing p
 
 3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página.
 
-## Problemas encontrados en la investigación
+### Entrevista al cliente
 
-### Landing Page inicial
+#### _1. Preguntas hechas al cliente_
 
-Hay un gran porcentaje de usuarios que rebotan en el landing page y no descargan la app. Al analizar la data, vemos que la mayoría de los rebotes se da por usuarios de dispositivos Android. 
+1. ¿Cuáles son los objetivos iniciales por los que decidieron crear esta app? Contexto.
+2. ¿Qué resultados esperan con esta segunda iteración del producto?
+3. ¿Qué beneficios les ha traído esta app?
+4. ¿Han tenido alguna dificultad con el hecho de que sea una app separada?
+5. ¿Por qué han desarrollado esta app solamente para iOS?
+6. ¿Por qué no está implementada para Android?
+7. ¿Los colores utilizados en la app: verde, azul y rosado, son los mismos que la app de banca móvil y/o de la empresa?
+8. ¿Qué tanto quieren que el usuario diferencie la app Tus finanzas con la app de banca móvil?
+9. Si tu empresa fuera una persona, ¿cómo sería?
 
-Al ingresar a esta página, lo primero que se ve es una imagen de un celular iPhone, que en el caso de los que utilizan Android, es un pain point porque lo primero que pueden pensar es que la app no está disponible para su celular o también puede causarle confusión en cuanto a ese tema.
+#### _2. Conclusiones de entrevista con el cliente_
 
-Siguiendo la línea anterior, no se especifica que la aplicación esté disponible solo para descargar en iOS. Entonces el usuario puede irse porque le parece tedioso buscar si la puede descargar o no; es posible que el beneficio no le parezca lo suficiente para tomarse ese tiempo.
+El cliente tiene como objetivo ofrecer a los usuarios propios del banco las herramientas que necesitan para tener un control de sus gastos, así como también mejorar su capacidad de ahorro. 
 
-De igual manera, al hacer clic en "descárgala ahora" al principio de la página, te dirige al final para escribir los datos del usuario y recibir el link de descarga. Este paso parece innecesario y puede provocar que el usuario abandone la página porque no quiere dar sus datos, sino que quisiera poder descargar inmediatamente la app.
+Se desarrolló una app separada de la aplicación de banca móvil que tienen porque no necesariamente todos los usuarios del banco son el público objetivo de la solución planteada para el manejo de gastos y ahorros. Está dirigida a gente más joven. Y con esto el proceso se simplificaría al tener una aplicación alternativa.
 
-En el landing page no se especifica que la app solo puede ser utilizada por usuarios del banco, por lo que aumenta el porcentaje de rebote cuando los usuarios se dan cuenta de eso.
+Esta app de ahorros ayuda a fidelizar a los usuarios nuevos. Además, solo funciona si se tiene una cuenta en el banco de nuestro cliente, no con otros bancos.
 
-Otro problema con el landing page es el contraste y los colores. La imagen del celular se muestra con bordes blancos y el fondo también es blanco; por lo que, no se aprecia ni distingue correctamente el celular. La app se pierde entre esos colores. Asimismo, como se puede ver con el color de las letras, y con la última sección de "Descarga el app ahora", el color blanco no deja ver bien esa parte. 
+El cliente espera que con esta iteración de la app, el usuario pueda utilizar adecuadamente las funcionalidades, ya que actualmente no están usando bien la funcionalidad de ahorro; y no se sabe la razón por la que están teniendo tales dificultades. Además, busca posicionar la aplicación como algo innovador en el mercado peruano.
 
-También los botones, al principio y al final, tienen distinto color. Incluso al pasar el cursor, difieren los colores; especialmente en el último botón, el color es totalmente distinto a lo anterior. No hay lineamientos que se respeten. 
+Se cree que la publicidad no está cumpliendo bien su objetivo y quieren replantear la estrategia de marketing.
 
-El tamaño de las fotos de los usuarios que comentan es muy pequeño para el espacio que hay.
+La aplicación está desarrollada solo en iOS porque es nueva y es el MVP que se estableció. Pero hay disposición para implementar en Android, dadas las pruebas suficientes de que es necesario.
 
-![Landing Page](img/landing-page.png)
-![Landing Page](img/landing-page2.png)
+Los colores de la app son distintos a la de la banca móvil del banco pero tienen una relación, _conversan_ entre ellas. Se ha intentado dar un estilo diferente porque es una aplicación diferente. El cliente quiere que el usuario pueda diferenciar cuando está en la banca móvil y en la app de ahorro, o sea encontrar un equilibrio entre las diferencias y el hecho de que vienen del mismo banco.
 
-
-## Testing inicial con Maze
-
-Decidimos testear el prototipo inicial que nos brindó el cliente para obtener los primeros problemas y poder solucionarlos. Para realizar esta tarea utilizamos la herramienta Maze.design y la testeamos con 8 usuarios. 
-
-Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la tarea indirectamente y 6 se rindieron o rebotaron. Entonces claramente había un problema con la aplicación. La mayoría se quedó en la parte de crearse una cuenta, y pensamos que una de las razones era por tantos pasos que tenían que hacer.
-
-![maze](img/mazedesign.jpg)
+El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere que su app se distinga por su disposición a innovar, que tenga un lenguaje amigable; pero por sobretodo que demuestre seguridad y confianza, dado que es una aplicación de banco.
 
 ## Árbol de contenidos
 
@@ -251,7 +251,6 @@ Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, c
 
 [Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
 [Entra al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down)
-
 ![Prototipo Android](img/prototipo-android.jpg)
 
 ## Testing del prototipo
@@ -266,16 +265,70 @@ Después del testing del prototipo, lo iteramos para resolver los problemas que 
 
 Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
 
+## **Definición**
 
-## Zeplin
+### Problemas encontrados en la investigación
+
+#### Landing Page inicial
+
+Hay un gran porcentaje de usuarios que rebotan en el landing page y no descargan la app. Al analizar la data, vemos que la mayoría de los rebotes se da por usuarios de dispositivos Android. 
+
+Al ingresar a esta página, lo primero que se ve es una imagen de un celular iPhone, que en el caso de los que utilizan Android, es un pain point porque lo primero que pueden pensar es que la app no está disponible para su celular o también puede causarle confusión en cuanto a ese tema.
+
+Siguiendo la línea anterior, no se especifica que la aplicación esté disponible solo para descargar en iOS. Entonces el usuario puede irse porque le parece tedioso buscar si la puede descargar o no; es posible que el beneficio no le parezca lo suficiente para tomarse ese tiempo.
+
+De igual manera, al hacer clic en "descárgala ahora" al principio de la página, te dirige al final para escribir los datos del usuario y recibir el link de descarga. Este paso parece innecesario y puede provocar que el usuario abandone la página porque no quiere dar sus datos, sino que quisiera poder descargar inmediatamente la app.
+
+En el landing page no se especifica que la app solo puede ser utilizada por usuarios del banco, por lo que aumenta el porcentaje de rebote cuando los usuarios se dan cuenta de eso.
+
+Otro problema con el landing page es el contraste y los colores. La imagen del celular se muestra con bordes blancos y el fondo también es blanco; por lo que, no se aprecia ni distingue correctamente el celular. La app se pierde entre esos colores. Asimismo, como se puede ver con el color de las letras, y con la última sección de "Descarga el app ahora", el color blanco no deja ver bien esa parte. 
+
+También los botones, al principio y al final, tienen distinto color. Incluso al pasar el cursor, difieren los colores; especialmente en el último botón, el color es totalmente distinto a lo anterior. No hay lineamientos que se respeten. 
+
+El tamaño de las fotos de los usuarios que comentan es muy pequeño para el espacio que hay.
+
+![Landing Page](img/landing-page.png)
+![Landing Page](img/landing-page2.png)
+
+
+#### Testing inicial con Maze
+
+Decidimos testear el prototipo inicial que nos brindó el cliente para obtener los primeros problemas y poder solucionarlos. Para realizar esta tarea utilizamos la herramienta Maze.design y la testeamos con 8 usuarios. 
+
+Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la tarea indirectamente y 6 se rindieron o rebotaron. Entonces claramente había un problema con la aplicación. La mayoría se quedó en la parte de crearse una cuenta, y pensamos que una de las razones era por tantos pasos que tenían que hacer.
+
+![maze](img/mazedesign.jpg)
+
+
+## **Ideación**
+
+### User persona primario - validado
+
+![user primario](img/Persona-primary.png)
+
+### User persona secundario - validado
+
+![user secundario](img/Persona-secundary.png)
+
+### Customer Journey Map
+
+![user secundario](img/customer-journey.png)
+
+## **Prototipado**
+
+### Prototipo en alta fidelidad
+
+[Link a proyecto en Figma](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App-Android?node-id=2%3A0&scaling=scale-down)
+
+### Zeplin
 
 [Link a proyecto en Zeplin](https://zpl.io/scene/bo9lpLg)
 
-## Video Loom
+### Video Loom
 
 [Link del video](https://www.useloom.com/share/066af5cbaf0e4da5becd78ecfe7bb17c)
 
-## Herramienta de organización
+### Herramienta de organización
 
 Para este proyecto decidimos utilizar Trello para organizarnos.
 
