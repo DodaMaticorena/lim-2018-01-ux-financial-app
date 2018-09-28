@@ -1,6 +1,6 @@
-# Aplicación financiera
+# Proceso de rediseño de una aplicación financiera
 
-## Preámbulo
+### Preámbulo
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al
 mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
@@ -9,8 +9,7 @@ equipo detrás de este nuevo producto ha decidido contratar a una
 agencia/consultora de UX que los ayude a definir la dirección y evolución del
 producto. 
 
-## Introducción
-
+## **Empatía**
 ### Contexto
 
 Durante la primera semana de entendimiento de los requerimientos, el Product
@@ -66,7 +65,7 @@ links, encontrarán:
 
 Los objetivos iniciales son investigar el producto y encontrar los problemas que tiene el MVP de nuestro cliente, para poder idear una solución. También poder testear con el usuario para validar el problema y la solución.
 
-## Cliente
+## Entrevista al cliente
 
 ### _1. Preguntas hechas al cliente_
 
@@ -124,7 +123,7 @@ Que el uso o consulta de la sección de Gastos representa casi la totalidad del 
 
 Por otro lado, se observó que la mayoría de usuarios que ingresan al landing page son usuarios de **dispositivos Android (88,9%)** lo cual genera un porcentaje de rebote del 77,9%.
 
-![Dispositivos](img/uso-dispoitivos.png)
+![Dispositivos](img/uso-dispositivos.png)
 
 **Conclusiones**
 
@@ -166,7 +165,20 @@ Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la
 
 ![maze](img/mazedesign.jpg)
 
-## Usuarios
+## Entrevista a usuarios
+
+**Análisis previo del contexto de usuario**
+
+Según [Datum](http://www.datum.com.pe/new_web_files/files/pdf/Millennials.pdf), el público objetivo al que se dirige el banco son los pertenecientes a la Generación Y o Millennials, quienes abarcan la edad entre 18 a 35 años. En el Perú, este público corresponde al 29% de la población total.
+
+De esa cantidad, el 51% se encuentra trabajando y el 40% estudiando, y solo la mitad de la población tiene hábitos de ahorro. Como [información adicional](http://www.sbs.gob.pe/Portals/0/jer/BOLETIN-SEMANAL/2018/boletin-semanal-8-2018.pdf), la SBS nos indica que solo el 21% de los jóvenes entre 18 a 25 años (millennials menores) realizan una acción de ahorro. Lo cual está vinculado no solo a los niveles de gastos e ingresos, sino también a motivaciones de naturaleza conductual. 
+
+Esto se debe a que prefieren el disfrute de corto plazo sobre la posesión física, es decir, ahorran para viajes, objetos, cursos o estudios cortos, mas no para una vivienda o para su vejez.
+
+Sin embargo, según el estudio, para el 2030 esta generación constituirá más del 60% de la fuerza laboral, entre millennials y post-millennials, por lo que es importante inculcar en ellos el hábito del ahorro a largo plazo.
+
+Según lo antes visto, podemos concluir que el user persona al que se dirige el banco mantiene la edad correcta (user persona primario y secundario) pero cuenta con características diferentes, los cuales validaremos con las entrevistas propuestas.
+
 
 ### _1. Preguntas para el usuario_
 
@@ -216,8 +228,6 @@ Los datos que quieren ver los usuarios en la aplicación son el monto de su sald
 
 Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque normalmente no cuentan con ingresos monetarios, pero sí quieren ahorrar para obtener alguna meta. Estos usuarios están dispuestos a hacerlo apenas tengan la posibilidad.
 
-
-
 ## Árbol de contenidos
 
 ![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
@@ -238,3 +248,4 @@ Para este proyecto decidimos utilizar Trello para organizarnos.
 
 ![Trello](img/trello.png)
 
+## 
