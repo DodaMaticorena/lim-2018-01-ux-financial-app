@@ -208,6 +208,7 @@ Por otro lado, se observó que la mayoría de usuarios que ingresan al landing p
 
 3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página.
 
+<<<<<<< HEAD
 ### Entrevista al cliente
 
 #### _1. Preguntas hechas al cliente_
@@ -247,6 +248,8 @@ El cliente está abierto a la posibilidad de cambiar el nombre de la app. Quiere
 ### Entrevista a usuarios
 >>>>>>> 45ac62f65f160c61948cd0df1990b70232d8f092
 =======
+=======
+>>>>>>> dfe439591cccd88cf5f0d0f8374ec6b73de5beb2
 ## Árbol de contenidos
 >>>>>>> 72b77b7ea0388a12a84a1a3e2138f797ead626d7
 
