@@ -306,9 +306,9 @@ Para este proyecto decidimos utilizar Trello para organizarnos.
 
 ### Planificación y justificación de actividades
 
-Según el tiempo y presupuesto que teníamos, identificamos las principales actividades a realizar para la investigación:
+Según el tiempo y presupuesto que teníamos, identificamos las principales actividades a realizar para la investigación: 
 
-![Planificación](img/actividades.jpeg)
+![Planificación de actividades](img/actividades.jpeg)
 
 [Link a la justificación de actividades](https://drive.google.com/open?id=1ICZ4cpUDc-uYcAEplr0XZT6SnbxLzZIkRUSHuMe65gY)
 
