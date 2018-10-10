@@ -65,6 +65,43 @@ links, encontrarán:
 
 Los objetivos iniciales son investigar el producto y encontrar los problemas que tiene el MVP de nuestro cliente, para poder idear una solución. También poder testear con el usuario para validar el problema y la solución.
 
+### Análisis de la data proporcionada
+
+Según la data proporcionada y la información entregada por el cliente, se tiene el siguiente flujo de descarga e instalación de la aplicación:
+
+![flujo de descarga](img/flujo-descarga.png "Anuncio de Facebook ->  Landing page  ->  App Store  ->  Tus Finanzas")
+
+De los datos generales, obtenemos que del total de usuarios que ven el anuncio en Facebook **solo 2.4% ingresan al landing page**. Asimismo, de esta cantidad, el 12.4% que ingresa al landing page visita el App Store, y finalmente, del total que visita el App Store, solo el 12.8% instala la aplicación.
+
+Asimismo, de la data mensual que nos entregaron, podemos obtener que, en 06 meses, de Febrero a Julio, se registraron los siguientes cambios:
+
+![Crecimiento del funnel](img/funnel-crecimiento.png)
+
+Según los datos, las visitas al app store solo han aumentado el 14%, a diferencia de las impresiones en Facebook que lograron crecer un 89,2% o las visitas al landing page que aumentaron en un 74,8%.
+
+**Uso de funcionalidades de la aplicación**
+
+Por otro lado, referente al uso de la aplicación, tenemos lo siguiente como resultado:
+
+![Gastos vs. Ahorros](img/gastos-vs-ahorros.png)
+
+Que el uso o consulta de la sección de Gastos representa casi la totalidad del uso de la aplicación (95,2%), dejando en segundo lugar a la sección de Ahorros.
+
+**Dispositivos usados**
+
+Por otro lado, se observó que la mayoría de usuarios que ingresan al landing page son usuarios de **dispositivos Android (88,9%)** lo cual genera un porcentaje de rebote del 77,9%.
+
+![Dispositivos](img/uso-dispositivos.png)
+
+**Conclusiones**
+
+1. En los 06 meses desde que se lanzó el MVP, se ha registrado un crecimiento considerable en el alcance de la aplicación, sin embargo, el flujo que se quiso implementar desde un inicio (anuncio-landing-app store-descarga) no ha seguido un crecimiento parejo, pues se ve una caída considerable en las visitas al App Store. 
+
+2. El mayor porcentaje de caída en el flujo de instalación de la aplicación se origina en el paso del anuncio en Facebook al landing page, lo que indica que el anuncio no está optimizado y no está cumpliendo su objetivo.
+
+3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página.
+
+
 ## Entrevista al cliente
 
 ### _1. Preguntas hechas al cliente_
@@ -161,78 +198,6 @@ Los datos que quieren ver los usuarios en la aplicación son el monto de su sald
 Los usuarios que son estudiantes tienen menos posibilidad de ahorro porque normalmente no cuentan con ingresos monetarios, pero sí quieren ahorrar para obtener alguna meta. Estos usuarios están dispuestos a hacerlo apenas tengan la posibilidad.
 
 
-### Análisis de la data proporcionada
-
-Según la data proporcionada y la información entregada por el cliente, se tiene el siguiente flujo de descarga e instalación de la aplicación:
-
-![flujo de descarga](img/flujo-descarga.png "Anuncio de Facebook ->  Landing page  ->  App Store  ->  Tus Finanzas")
-
-De los datos generales, obtenemos que del total de usuarios que ven el anuncio en Facebook **solo 2.4% ingresan al landing page**. Asimismo, de esta cantidad, el 12.4% que ingresa al landing page visita el App Store, y finalmente, del total que visita el App Store, solo el 12.8% instala la aplicación.
-
-Asimismo, de la data mensual que nos entregaron, podemos obtener que, en 06 meses, de Febrero a Julio, se registraron los siguientes cambios:
-
-![Crecimiento del funnel](img/funnel-crecimiento.png)
-
-Según los datos, las visitas al app store solo han aumentado el 14%, a diferencia de las impresiones en Facebook que lograron crecer un 89,2% o las visitas al landing page que aumentaron en un 74,8%.
-
-**Uso de funcionalidades de la aplicación**
-
-Por otro lado, referente al uso de la aplicación, tenemos lo siguiente como resultado:
-
-![Gastos vs. Ahorros](img/gastos-vs-ahorros.png)
-
-Que el uso o consulta de la sección de Gastos representa casi la totalidad del uso de la aplicación (95,2%), dejando en segundo lugar a la sección de Ahorros.
-
-**Dispositivos usados**
-
-Por otro lado, se observó que la mayoría de usuarios que ingresan al landing page son usuarios de **dispositivos Android (88,9%)** lo cual genera un porcentaje de rebote del 77,9%.
-
-![Dispositivos](img/uso-dispositivos.png)
-
-**Conclusiones**
-
-1. En los 06 meses desde que se lanzó el MVP, se ha registrado un crecimiento considerable en el alcance de la aplicación, sin embargo, el flujo que se quiso implementar desde un inicio (anuncio-landing-app store-descarga) no ha seguido un crecimiento parejo, pues se ve una caída considerable en las visitas al App Store. 
-
-2. El mayor porcentaje de caída en el flujo de instalación de la aplicación se origina en el paso del anuncio en Facebook al landing page, lo que indica que el anuncio no está optimizado y no está cumpliendo su objetivo.
-
-3. La mayoría de usuarios visitan el landing page usando dispositivos Android, lo cual genera un porcentaje de rebote alto en la página.
-
-## Árbol de contenidos
-
-![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
-
-## Propuesta inicial
-
-Un punto importante es que decidimos implementar la aplicación en Android, todo eso fundamentado en la investigación. Hay una gran cantidad de usuarios Android que se pierden porque no hay una versión para su sistema operativo.
-
-La propuesta inicial de rediseño empieza con un onboarding, para así presentarle al usuario nuevo los beneficios que obtendría al usar la aplicación. Minimizamos el proceso de registro, con menos pasos pero sin dejar de lado la seguridad. Sacamos la selección de una foto en el registro, y también eliminamos la huella. Esta última la pusimos en la sección de Ajustes. 
-
-Agregamos una barra inferior con los accesos a las diferentes secciones de la aplicación. Cambiamos un poco el diseño a uno más minimalista.
-
-En la parte de Ahorros, la nueva propuesta es un botón que dice 'Crear una meta', a diferencia del diseño anterior que dice 'Crear una cuenta', y resulta confuso para el usuario. 
-
-Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, categoría de tu meta, ¿Cómo quieres ahorrar?: establecer meta total y establecer monto parcial a ahorrar, frecuencia de tu ahorro, fecha límite de tu meta. En la siguiente imagen se muestra esa vista:
-
-![Crear cuenta](img/crear-ahorro.png)
-
-## Prototipo de Alta fidelidad (con iteración)
-
-[Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
-[Entra al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down)
-![Prototipo Android](img/prototipo-android.jpg)
-
-## Testing del prototipo
-
-Hicimos testing con 5 usuarios entre 19 y 24 años. Y sacamos dos conclusiones principales: 
-- Tuvieron mucha dificultad al crear una meta de ahorro en el campo de "¿Cómo quieres ahorrar? Establecer meta total o Establecer monto parcial a ahorrar." Los usuarios no entendían a qué se referían las opciones.
-- Algunos usuarios sentían que la app les decía qué hacer, y no la sentían _suya_ o _propia_ por el lenguaje en segunda persona que se usa.
-
-## Iteración del prototipo
-
-Después del testing del prototipo, lo iteramos para resolver los problemas que habían. Es así que cambiamos el campo confuso de "¿Cómo quieres ahorrar?" a "¿Cuánto quieres ahorrar?" para que sea más directo. 
-
-Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
-
 ## **Definición**
 
 ### Problemas encontrados en la investigación
@@ -268,8 +233,6 @@ Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la
 ![maze](img/mazedesign.jpg)
 
 
-## **Ideación**
-
 ### User persona primario - validado
 
 ![user primario](img/Persona-primary.png)
@@ -282,21 +245,61 @@ Obtuvimos que ninguno llegó a la meta de manera directa. 2 de ellos cumplió la
 
 ![user secundario](img/customer-journey.png)
 
+## **Ideación**
+
+### Propuesta inicial
+
+Un punto importante es que decidimos implementar la aplicación en Android, todo eso fundamentado en la investigación. Hay una gran cantidad de usuarios Android que se pierden porque no hay una versión para su sistema operativo.
+
+La propuesta inicial de rediseño empieza con un onboarding, para así presentarle al usuario nuevo los beneficios que obtendría al usar la aplicación. Minimizamos el proceso de registro, con menos pasos pero sin dejar de lado la seguridad. Sacamos la selección de una foto en el registro, y también eliminamos la huella. Esta última la pusimos en la sección de Ajustes. 
+
+Agregamos una barra inferior con los accesos a las diferentes secciones de la aplicación. Cambiamos un poco el diseño a uno más minimalista.
+
+En la parte de Ahorros, la nueva propuesta es un botón que dice 'Crear una meta', a diferencia del diseño anterior que dice 'Crear una cuenta', y resulta confuso para el usuario. 
+
+Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, categoría de tu meta, ¿Cómo quieres ahorrar?: establecer meta total y establecer monto parcial a ahorrar, frecuencia de tu ahorro, fecha límite de tu meta. En la siguiente imagen se muestra esa vista:
+
+![Crear cuenta](img/crear-ahorro.png)
+
+
+### Árbol de contenidos
+
+![Árbol de contenidos](img/arbol-de-contenidos-completo.jpg)
+
 ## **Prototipado**
 
-### Prototipo en alta fidelidad
+## Prototipo de Alta fidelidad (con iteración)
 
-[Link a proyecto en Figma](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App-Android?node-id=2%3A0&scaling=scale-down)
+[Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
+[Ingresa al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down) <br>
 
-### Zeplin
+![Prototipo Android](img/prototipo-android.jpg)
+
+## **Testing**
+
+## Testing del prototipo
+
+Hicimos testing con 5 usuarios entre 19 y 24 años. Y sacamos dos conclusiones principales: 
+- Tuvieron mucha dificultad al crear una meta de ahorro en el campo de "¿Cómo quieres ahorrar? Establecer meta total o Establecer monto parcial a ahorrar." Los usuarios no entendían a qué se referían las opciones.
+- Algunos usuarios sentían que la app les decía qué hacer, y no la sentían _suya_ o _propia_ por el lenguaje en segunda persona que se usa.
+
+## Iteración del prototipo
+
+Después del testing del prototipo, lo iteramos para resolver los problemas que habían. Es así que cambiamos el campo confuso de "¿Cómo quieres ahorrar?" a "¿Cuánto quieres ahorrar?" para que sea más directo. 
+
+Además cambiamos un poco el lenguaje y en lugar de "Metas", ahora dice "Mis metas" para que el usuario sienta que hay una conexión con él.
+
+## **Recursos**
+
+## Zeplin
 
 [Link a proyecto en Zeplin](https://zpl.io/scene/bo9lpLg)
 
-### Video Loom
+## Video Loom
 
 [Link del video](https://www.useloom.com/share/066af5cbaf0e4da5becd78ecfe7bb17c)
 
-### Herramienta de organización
+## Herramienta de organización
 
 Para este proyecto decidimos utilizar Trello para organizarnos.
 
