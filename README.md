@@ -270,8 +270,8 @@ Al crear una meta de ahorro, pusimos los siguientes campos: nombre de tu meta, c
 
 ## Prototipo de Alta fidelidad (con iteración)
 
-[Ingresa al prototipo de iOS](https://www.figma.com/proto/Y4eP4bEHHrvvYyOgx469Oo/Financial-App---Apple?scaling=scale-down) <br>
-[Ingresa al prototipo de Android](https://www.figma.com/proto/WdDpSO2tP3x0YZsCCKJEomEk/Financial-App---Android?node-id=0%3A1&scaling=scale-down) <br>
+[Ingresa al prototipo de iOS](https://www.figma.com/proto/Nh2ffYoV1yuclm1BUoisC6/Financial-App-Apple?node-id=0%3A1&scaling=contain) <br>
+[Ingresa al prototipo de Android](https://www.figma.com/proto/50yVogZ5YCjBweQd2DXlXE/Financial-App-Android?node-id=0%3A1&scaling=contain) <br>
 
 ![Prototipo Android](img/prototipo-android.jpg)
 
